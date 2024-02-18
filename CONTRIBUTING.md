@@ -25,7 +25,7 @@ If you encounter a technical issue with the CCC Glossary website or notice somet
 
 If you have questions, suggestions, or want to discuss potential contributions, join the CCC community:
 
-- **Slack Channel**: Connect with us in the `#ccc-glossary` channel on [CCC Slack](LINK_TO_CCC_SLACK). *to be updated soon
+- **Slack Channel**: Connect with us in the `#ccc_glossary` channel on [CCC Slack](LINK_TO_CCC_SLACK). *to be updated soon
 
 # Contributing Content
 
