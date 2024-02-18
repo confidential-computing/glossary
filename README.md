@@ -26,10 +26,9 @@ Please see our [contribution guidelines](CONTRIBUTING.md) for more details on su
 We are reviewing all terminology usage in the field to standardise language and note any underspecified terms on this [matrix](https://github.com/confidential-computing/glossary/blob/main/term_specification_matrix.md). 
 For the complete list of terms, please refer to the [glossary](glossary.confidentialcomputing.io). *this link will be active soon! 
 
-
 ## Community
 
-Join our community to discuss confidential computing, share ideas, and collaborate on projects. Connect with us through [CCC Special Interest Groups]([LINK_TO_COMMUNITY](https://confidentialcomputing.io/about/committees/)).
+Join our community to discuss confidential computing, share ideas, and collaborate on projects. Connect with us through [CCC Special Interest Groups](https://confidentialcomputing.io/about/committees/).
 
 ## Maintainers
 
@@ -37,7 +36,7 @@ This glossary is maintained by volunteers from the CCC community. If you have an
 
 ## License
 
-This glossary is available under the [Apache License 2.0](LICENSE). Contributions to this project are accepted under the same license.
+These files are made available under the terms of the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). 
 
 ## Acknowledgments
 
