@@ -1,6 +1,6 @@
 # Confidential Computing Consortium Glossary
 
-Welcome to the Confidential Computing Consortium (CCC) Glossary. Our mission is to facilitate a common understanding of confidential computing concepts, terms, and definitions. This glossary is a community-driven effort to make confidential computing more accessible and understandable to everyone.
+Welcome to the [Confidential Computing Consortium (CCC) Glossary](https://github.com/confidential-computing/glossary/blob/main/glossary.md). Our mission is to facilitate a common understanding of confidential computing concepts, terms, and definitions. This glossary is a community-driven effort to make confidential computing more accessible and understandable to everyone.
 
 ## Introduction
 
